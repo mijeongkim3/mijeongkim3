@@ -1,7 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hello%20I'm%20mijeong%20Kim&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hello%20I'm%20mijeong%20Kim&fontSize=60&animation=fadeIn)
 
-
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 <!--
 **mijeongkim3/mijeongkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
