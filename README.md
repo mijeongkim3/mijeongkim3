@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hello%20I'm%20mijeong%20Kim&fontSize=60)
+
+
 
 <!--
 **mijeongkim3/mijeongkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
