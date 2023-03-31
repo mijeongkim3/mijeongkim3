@@ -5,14 +5,14 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hello%20I'm%20mijeong%20Kim&fontSize=60&animation=fadeIn)
  -->
 
--🌱꾸준한 탐구로 성장하는 개발자 김미정입니다.
+🌱꾸준한 탐구로 성장하는 개발자 김미정입니다.🌱
 <br><br>
--📫안정적이고 신뢰할 수 있는 서비스를 제공하는 웹 개발자가 되는 것이 목표입니다
+📫안정적이고 신뢰할 수 있는 서비스를 제공하는 웹 개발자가 되는 것이 목표입니다📫
 <br><br>
--💌Email💌<br>
+💌Email💌<br>
 yellowredcandy@gmail.com
     <br><br>
--⚡Tech Stack⚡<br><br>
+⚡Tech Stack⚡<br><br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -27,10 +27,12 @@ yellowredcandy@gmail.com
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=black">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
+    <br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=black">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black">
 
+    ![깃허브아이디's github stats](https://github-readme-stats.vercel.app/api?username=mijeongkim3&show_icons=true)
 </div>
 <!--
 **mijeongkim3/mijeongkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
