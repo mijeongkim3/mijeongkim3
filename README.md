@@ -32,8 +32,9 @@ yellowredcandy@gmail.com
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=black">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black">
 
-    ![깃허브아이디's github stats](https://github-readme-stats.vercel.app/api?username=mijeongkim3&show_icons=true)
+   
 </div>
+<!--  ![mijeongkim3's github stats](https://github-readme-stats.vercel.app/api?username=mijeongkim3&show_icons=true) -->
 <!--
 **mijeongkim3/mijeongkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
