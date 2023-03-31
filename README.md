@@ -9,7 +9,10 @@
 <br><br>
 -📫안정적이고 신뢰할 수 있는 서비스를 제공하는 웹 개발자가 되는 것이 목표입니다
 <br><br>
--⚡Stacks⚡<br><br>
+-💌Email💌<br>
+yellowredcandy@gmail.com
+    <br><br>
+-⚡Tech Stack⚡<br><br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
