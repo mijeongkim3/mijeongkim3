@@ -12,6 +12,9 @@
 💌Email💌<br>
 yellowredcandy@gmail.com
     <br><br>
+💛portfolio💛<br><br>
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://seen-hamburger-ce8.notion.site/8209f5522e37443b8718d918c267c5cc)](https://seen-hamburger-ce8.notion.site/8209f5522e37443b8718d918c267c5cc)
+    <br><br>
 ⚡Tech Stack⚡<br><br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
