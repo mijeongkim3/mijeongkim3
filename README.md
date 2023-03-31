@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=black">
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=black">
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+
 <!--
 **mijeongkim3/mijeongkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
