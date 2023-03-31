@@ -1,8 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hello%20I'm%20mijeong%20Kim&fontSize=60&animation=fadeIn)
 
-<div class="item" style=text-align: center;>
+<div style="text-align:center">
 -🌱꾸준한 탐구로 성장하는 개발자 김미정입니다.
+<br><br>
+-📫안정적이고 신뢰할 수 있는 서비스를 제공하는 웹 개발자가 되는 것이 목표입니다
 <br><br>
 -⚡Stacks⚡<br><br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=black">
